@@ -1,6 +1,6 @@
 # AI Research and Reporting Flow
 
-### This repository is for AI research using Frontier and Cloud Models. 
+### This repository is for AI research using Local, Frontier and Cloud Models. 
 
 ```
                     SOURCES
