@@ -1,4 +1,6 @@
-If you were producing a security research report, I'd use the stack this way.
+# AI Research and Reporting Flow
+
+### This repository is for AI research using Frontier and Cloud Models. 
 
 ```
                     SOURCES
